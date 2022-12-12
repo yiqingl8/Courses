@@ -1,3 +1,3 @@
 # Courses Materials
-This repository contains codes linked to on-campus courses as well as assignments
+This repository contains codes linked to Courses Final Projects
 
