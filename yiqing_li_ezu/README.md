@@ -9,5 +9,7 @@ Please enter the following information on the login interface:
  * Default user ID: tester
 
  * Passward: {iSchoolUI}
+## Website Overview
+![alt text](https://github.com/yiqingl8/yiqingl8.github.io/blob/main/assets/pngs/ezu.png?raw=true)
 
 More information will be added soon ！
