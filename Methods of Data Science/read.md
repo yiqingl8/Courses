@@ -1,2 +1,2 @@
 # read.md
-this file contains the assignment of IS 517
+This directory contains the assignments and final project of Methods of Data Science Courses
